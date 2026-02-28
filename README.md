@@ -12,6 +12,8 @@ Developed a Logistic Regression classifier with standard preprocessing (handling
 
 ## Achievement (Results)
 
+- Accuracy: 0.92
+
 - Confusion Matrix: TN=283, FP=40, FN=25, TP=506 (slightly more false approvals than false rejections)
 
 - F1-score: Rejected=0.90, Approved=0.94; Macro/Weighted F1 = 0.92
